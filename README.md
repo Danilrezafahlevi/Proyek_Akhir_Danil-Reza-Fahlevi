@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TUGAS PROYEK AKHIR DANIL REZA FAHLEVI</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <header>📘 PROYEK AKHIR DANIL REZA FAHLEVI</header>
+
+  <div class="poster">
+    <img src="./logo/Logo-UIN-Sunan-Gunung-Djati-Bandung.webp" alt="Poster E-Book">
+    <img src="./logo/kemenag.png" alt="poster e-book">
+    <img src="./logo/lpdp.png" alt="poster e-book">
+  </div>
+
+  <div class="container">
+    <h2>📚 Proyek Akhir (Project-Based Learning )</h2>
+    <div class="ebook-list">
+      <div class="item-card">
+        <span>Konsep (Concept)</span>
+        <a href="https://drive.google.com/file/d/16zpDI40M3v1AY2t3pZ84IkKZpE5KxIgp/view?usp=sharing" target="_blank">Buka</a>
+      </div>
+      <div class="item-card">
+        <span>Tahap Pengumpulan Materi (Material Collecting)</span>
+        <a href="https://drive.google.com/drive/folders/1QJsGz1qzsM33hdKKooQc35AVyQiXlIVz?usp=sharing" target="_blank">Buka</a>
+      </div>
+      <div class="item-card">
+        <span>Tahap Pembuatan (Assembly)</span>
+        <a href="https://drive.google.com/file/d/1pPSocvDcpdiYDX7zHeXepKvJj2z0bsv_/view?usp=sharing"target="_blank">Buka</a>
+      </div>
+      <div class="item-card">
+        <span>Tahap Pengujian (Testing) & Distribusi (Distribution)</span>
+        <a href="https://danilrezafahlevi.github.io/Danilrezafahlevi/"target="_blank">Buka</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <h2>📝 Daftar Hasil Tugas</h2>
+    <div class="task-list">
+      <div class="item-card">
+        <span>Hasil 1 — Poster Perijinan Santri</span>
+        <a href="https://drive.google.com/file/d/1hkTXc6Ulz6M6WeJbq6GjwTWK_-ItboUZ/view?usp=sharing"target="_blank">Buka</a>
+      </div>
+      <div class="item-card">
+        <span>Hasil 2 — Poster Pendaftaran Santri Baru 2026/2027</span>
+        <a href="https://drive.google.com/file/d/1FJL5TXDZBjVgwzstnda-lfva1B2ZG67x/view?usp=sharing"target="_blank">Buka</a>
+      </div>
+      <div class="item-card">
+        <span>Hasil 3 — Brosur Santri Baru Tahun Ajaran 2026/2027</span>
+        <a href="https://drive.google.com/file/d/11QlDp7_ZKjdf7QvFzRWD8buDJBXDnh_K/view?usp=sharing"target="_blank">Buka</a>
+      </div>
+      <div class="item-card">
+        <span>Hasil 4 — Fotografi </span>
+        <a href="https://drive.google.com/file/d/1BMFZckBG0BY-v1kN3BNrflmA6j3R5_af/view?usp=sharing"target=_blank>Buka</a>
+      </div>
+      <div class="item-card">
+        <span>Hasil 5 — Manajemen Media Sosial dan Branding Pesantren</span>
+        <a href="https://drive.google.com/drive/folders/1TXu7yZ4O5fkLt1tWXvCXTIuIj_suHXu7?usp=sharing"target="_blank">Buka</a>
+      </div>
+    
+    <div class="item-card">
+        <span>Hasil 6 — Literasi AI dan Etikanya</span>
+        <a href="https://drive.google.com/drive/folders/1aL_Uz20p7YN1lFu01NgpJXfJK4jb00Vl?usp=sharing"target="_blank">Buka</a>
+      </div>
+    
+    <div class="item-card">
+        <span>Hasil 7 — AI Untuk Pembelajaran, Penelitian, dan Publikasi</span>
+        <a href="https://drive.google.com/file/d/1sborPbbAcIxGaGjy4yHgDFTMsTGZS9EJ/view?usp=drive_link"target="_blank">Buka</a>
+      </div>
+
+      <div class="item-card">
+        <span>Hasil 8 — Prompt Engineering dalam kecerdasan Artifisial Generatif</span>
+        <a href="https://drive.google.com/drive/folders/1wQsV8COG5KAghxeIP6ApD49gTXjVhZ7U?usp=sharing"target="_blank">Buka</a>
+      </div>
+  </div>
+
+  <footer>
+    <p>Terhubung dengan Media Sosial Saya :</p>
+    <div class="social-icons">
+      <a href="https://www.instagram.com/pesantren_alquran.nurul.aqlam?igsh=MWFvb3l4d3pzMmRlZA=="target=_blank><i class="fab fa-instagram"></i></a>
+      <a href="https://www.facebook.com/share/1FQCKexmuA/"target=_blank><i class="fab fa-facebook"></i></a>
+      <a href="https://www.tiktok.com/@pesantren_nurulaqlam?_r=1&_t=ZS-925ymZRleVR"target=_blank><i class="fab fa-tiktok"></i></a>
+    </div>
+    <p>&copy; 2025 Proyek Akhir & Kumpulan Tugas Saya</p>
+  </footer>
+</body>
+</html>
