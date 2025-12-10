@@ -1,0 +1,108 @@
+:root {
+  --primary: #22c55e; /* hijau */
+  --primary2: #3b82f6; /* biru */
+  --bg: #ffffff; /* putih */
+  --card: #f0f9ff;
+  --text: #0f172a;
+}
+
+body {
+  margin: 0; font-family: 'Poppins', sans-serif;
+  background: var(--bg); color: var(--text);
+}
+
+header {
+  background: var(--primary);
+  color: white;
+  padding: 2.5rem 1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.poster {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.poster img {
+  width: 120px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  object-fit: contain;
+}
+
+.container {
+  max-width: 900px;
+  margin: 2rem auto;
+  background: var(--card);
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.2rem;
+  font-weight: 600;
+}
+
+.ebook-list, .task-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.item-card {
+  background: var(--bg);
+  padding: 1.3rem;
+  border-radius: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.3s;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.item-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.item-card a {
+  background: var(--primary);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: .9rem;
+  transition: .3s;
+}
+
+.item-card a:hover { background: #1e7b4a; }
+
+footer {
+  margin-top: 3rem;
+  background: var(--card);
+  padding: 2rem 1rem;
+  text-align: center;
+  box-shadow: 0 -4px 12px rgba(0,0,0,0.05);
+}
+
+.social-icons a {
+  margin: 0 12px;
+  font-size: 1.7rem;
+  color: var(--text);
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: var(--primary);
+  transform: scale(1.2);
+}
